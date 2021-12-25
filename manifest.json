@@ -1,6 +1,6 @@
 {
-    "name": "Dev'Coffee",
-    "short_name": "DevCoffee",
+    "name": "Calculator",
+    "short_name": "Calculator",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
