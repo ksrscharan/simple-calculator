@@ -1,0 +1,18 @@
+{
+    "background_color": "#fff",
+    "display": "standalone",
+    "orientation":"portrait",
+    "theme_color": "#fff",
+    "short_name": "Calculatorr",
+    "name": "Calculator",
+    "description": "Install this simple calculator",
+    "lang": "en-US",
+    "icons": [
+    {
+      "src": "img/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+    ],
+    "start_url": "index.html?launcher=true"
+    }
