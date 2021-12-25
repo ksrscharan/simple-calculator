@@ -1,4 +1,4 @@
-const staticDevCoffee = "dev-coffee-site-v1"
+const staticCalc = "calculator"
 const assets = [
   "/",
   "./index.html",
@@ -11,7 +11,7 @@ const assets = [
 
 self.addEventListener("install", installEvent => {
   installEvent.waitUntil(
-    caches.open(staticDevCoffee).then(cache => {
+    caches.open(staticCalc).then(cache => {
       cache.addAll(assets)
     })
   )
