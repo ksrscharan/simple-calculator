@@ -2,8 +2,9 @@
 
     "name": "Calculator",
     "short_name": "Calculator",
-    "start_url": "index.html",
+    "start_url": "./?utm_source=homescreen",
     "homepage": "https://ksrscharan.github.io/simple-calculator/",
+
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
