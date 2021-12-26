@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+#clr{
+    background-color: orange;
+}
 .container{
     height: 100vh;
     /* max-width: 400px; */
@@ -29,9 +32,6 @@
     text-align: center;
     font-size: 25px;
     cursor: pointer;
-}
-#C{
-    background-color: orange;
 }
 #equal{
     background-color: cornflowerblue;
