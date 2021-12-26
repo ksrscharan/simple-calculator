@@ -30,6 +30,9 @@
     font-size: 25px;
     cursor: pointer;
 }
+#C{
+    background-color: burlywood;
+}
 #equal{
     background-color: cornflowerblue;
 }
@@ -39,5 +42,5 @@
 .btn:hover{
     background-color: rgba(255,0,250,0.5);
     color: #000;
-    transition: 0.5s ease-in-out;
+    transition: 0.2s ease-in-out;
 }
