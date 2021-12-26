@@ -13,7 +13,7 @@
       {
         "src": "img/favicon.png",
         "type": "image/png", "sizes": "48x48",
-        "purpose": "any maskable"
+        "purpose": "maskable"
       }      
     ]
   }
