@@ -46,3 +46,7 @@ if ("serviceWorker" in navigator) {
         .catch(err => console.log("service worker not registered", err))
     })
   }
+
+// Set up install prompt
+const { Install } = await import('install.js');
+new Install(document.querySelector('#install'));
